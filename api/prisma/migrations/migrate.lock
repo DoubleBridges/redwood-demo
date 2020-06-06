@@ -1,0 +1,4 @@
+# Prisma Migrate lockfile v1
+
+20200605215550-create-post-model
+20200605233532-create-contact
